@@ -1,0 +1,57 @@
+@charset "utf-8";
+body {
+    background-image: url(images/bg.jpg);
+    color: #000000;
+    background-size: cover;
+    background-attachment: fixed;
+}
+aside {
+    float: none;
+    padding-top: 0px;
+    font-family: devonshire;
+    font-style: normal;
+    margin-top: -28px;
+    color: #000000;
+    font-size: large;
+    text-align: center;
+}
+section  {
+    text-align: center;
+}
+
+article {
+    text-align: center;
+    color: #D18A03;
+    text-transform: none;
+    font-style: normal;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+p {
+    color: #000000;
+    text-transform: uppercase;
+    text-align: center;
+    font-style: italic;
+}
+
+main  {
+    text-align: center;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+
+div  {
+    text-align: center;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    text-decoration: underline;
+
+
+
+
+}
+section {
+}
